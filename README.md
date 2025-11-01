@@ -106,14 +106,6 @@ invalid_file_data = read_data_from_file('data.txt')
 print("\nInvalid File Data:")
 print(invalid_file_data)
 ```
-###  Key Areas in Data Engineering
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/13c82702-60f8-4acd-bb79-c8dcedae16f2" />
-
-
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/41f36ea7-ec73-40f1-b69f-4d5bd1e914ef" />
-
-
 
 ### Analysis of AI Tool 2 (ChatGPT) Output:
 
